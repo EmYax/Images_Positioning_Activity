@@ -63,7 +63,8 @@ body,td,th, h1 {
 
 .heading {background-color: #440d0f;
 padding:.75em;
-text-align:center;}
+text-align:center;
+	 color: #eef0f2;}
 
 .align {text-align:center;}
 
