@@ -81,3 +81,20 @@ background-color:#603a40;}
 
 .links {
 	color: #003844;}
+
+
+
+
+a {   
+    color: #003844;   
+}
+
+a:active {
+    color: #691717;
+}
+
+a[tabindex]:focus {
+    color: #691717;
+    outline: none;
+}
+
